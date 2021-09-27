@@ -1,6 +1,6 @@
 import React from 'react';
 import '../../App.css';
 
-export default function Products() {
-  return <h1 className='products'>SIGNUP</h1>;
+export default function SignUp() {
+  return <h1 className='sign-up'>LIKE & SUBSCRIBE</h1>;
 }
